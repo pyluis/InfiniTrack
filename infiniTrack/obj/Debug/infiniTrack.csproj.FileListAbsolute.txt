@@ -1,0 +1,302 @@
+C:\Users\oit\Downloads\infiniTrack\infiniTrack\infiniTrack\bin\Debug\infiniWork.exe.config
+C:\Users\oit\Downloads\infiniTrack\infiniTrack\infiniTrack\bin\Debug\infiniWork.exe
+C:\Users\oit\Downloads\infiniTrack\infiniTrack\infiniTrack\bin\Debug\infiniWork.pdb
+C:\Users\oit\Downloads\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csprojAssemblyReference.cache
+C:\Users\oit\Downloads\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniWork.frmDashboard.resources
+C:\Users\oit\Downloads\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniWork.Properties.Resources.resources
+C:\Users\oit\Downloads\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csproj.GenerateResource.cache
+C:\Users\oit\Downloads\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csproj.CoreCompileInputs.cache
+C:\Users\oit\Downloads\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniWork.exe
+C:\Users\oit\Downloads\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniWork.pdb
+C:\Users\oit\Downloads\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniWork.frmStart.resources
+C:\Users\oit\Downloads\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniWork.frmLogin.resources
+D:\Development\Visual Studio C#\infiniTrack\infiniTrack\infiniTrack\infiniTrack\bin\Debug\infiniWork.exe.config
+D:\Development\Visual Studio C#\infiniTrack\infiniTrack\infiniTrack\infiniTrack\bin\Debug\infiniWork.exe
+D:\Development\Visual Studio C#\infiniTrack\infiniTrack\infiniTrack\infiniTrack\bin\Debug\infiniWork.pdb
+D:\Development\Visual Studio C#\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csprojAssemblyReference.cache
+D:\Development\Visual Studio C#\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniWork.frmLogin.resources
+D:\Development\Visual Studio C#\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniWork.Properties.Resources.resources
+D:\Development\Visual Studio C#\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniWork.frmStart.resources
+D:\Development\Visual Studio C#\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csproj.GenerateResource.cache
+D:\Development\Visual Studio C#\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csproj.CoreCompileInputs.cache
+D:\Development\Visual Studio C#\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniWork.exe
+D:\Development\Visual Studio C#\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniWork.pdb
+D:\Development\Visual Studio C#\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniWork.frmDashboard.resources
+D:\Development\C#\infiniTrack\infiniTrack\obj\Debug\infiniWork.frmDashboard.resources
+D:\Development\C#\infiniTrack\infiniTrack\obj\Debug\infiniWork.frmLogin.resources
+D:\Development\C#\infiniTrack\infiniTrack\obj\Debug\infiniWork.frmStart.resources
+D:\Development\C#\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csproj.GenerateResource.cache
+D:\Development\C#\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csproj.CoreCompileInputs.cache
+D:\Development\C#\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csprojAssemblyReference.cache
+D:\Development\C#\infiniTrack\infiniTrack\obj\Debug\infiniWork.frmUserwiseReport.resources
+D:\Development\C#\infiniTrack\infiniTrack\bin\Debug\infiniTrack.exe.config
+D:\Development\C#\infiniTrack\infiniTrack\bin\Debug\infiniTrack.exe
+D:\Development\C#\infiniTrack\infiniTrack\bin\Debug\infiniTrack.pdb
+D:\Development\C#\infiniTrack\infiniTrack\obj\Debug\infiniTrack.Properties.Resources.resources
+D:\Development\C#\infiniTrack\infiniTrack\obj\Debug\infiniTrack.exe
+D:\Development\C#\infiniTrack\infiniTrack\obj\Debug\infiniTrack.pdb
+C:\Users\1701r\Desktop\infiniTrack\infiniTrack\infiniTrack\bin\Debug\infiniTrack.exe.config
+C:\Users\1701r\Desktop\infiniTrack\infiniTrack\infiniTrack\bin\Debug\infiniTrack.exe
+C:\Users\1701r\Desktop\infiniTrack\infiniTrack\infiniTrack\bin\Debug\infiniTrack.pdb
+C:\Users\1701r\Desktop\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csprojAssemblyReference.cache
+C:\Users\1701r\Desktop\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.frmDashboard.resources
+C:\Users\1701r\Desktop\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.frmLogin.resources
+C:\Users\1701r\Desktop\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.Properties.Resources.resources
+C:\Users\1701r\Desktop\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.frmStart.resources
+C:\Users\1701r\Desktop\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.frmUserwiseReport.resources
+C:\Users\1701r\Desktop\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csproj.GenerateResource.cache
+C:\Users\1701r\Desktop\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csproj.CoreCompileInputs.cache
+C:\Users\1701r\Desktop\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.exe
+C:\Users\1701r\Desktop\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.pdb
+D:\Development\C#\infiniTrack\infiniTrack\infiniTrack\bin\Debug\infiniTrack.exe.config
+D:\Development\C#\infiniTrack\infiniTrack\infiniTrack\bin\Debug\infiniTrack.exe
+D:\Development\C#\infiniTrack\infiniTrack\infiniTrack\bin\Debug\infiniTrack.pdb
+D:\Development\C#\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csprojAssemblyReference.cache
+D:\Development\C#\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.frmDashboard.resources
+D:\Development\C#\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.frmLogin.resources
+D:\Development\C#\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.Properties.Resources.resources
+D:\Development\C#\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.frmStart.resources
+D:\Development\C#\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.frmUserwiseReport.resources
+D:\Development\C#\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csproj.GenerateResource.cache
+D:\Development\C#\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csproj.CoreCompileInputs.cache
+D:\Development\C#\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.exe
+D:\Development\C#\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.pdb
+C:\Users\luis_\Downloads\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csprojAssemblyReference.cache
+C:\Users\luis_\Downloads\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.exe
+C:\Users\luis_\Downloads\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.pdb
+C:\Users\luis_\Downloads\infiniTrack\infiniTrack\infiniTrack\infiniTrack\bin\Debug\infiniTrack.exe.config
+C:\Users\luis_\Downloads\infiniTrack\infiniTrack\infiniTrack\infiniTrack\bin\Debug\infiniTrack.exe
+C:\Users\luis_\Downloads\infiniTrack\infiniTrack\infiniTrack\infiniTrack\bin\Debug\infiniTrack.pdb
+C:\Users\luis_\Downloads\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.frmDashboard.resources
+C:\Users\luis_\Downloads\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.frmLogin.resources
+C:\Users\luis_\Downloads\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.Properties.Resources.resources
+C:\Users\luis_\Downloads\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.frmStart.resources
+C:\Users\luis_\Downloads\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.frmUserwiseReport.resources
+C:\Users\luis_\Downloads\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csproj.GenerateResource.cache
+C:\Users\luis_\Downloads\infiniTrack\infiniTrack\infiniTrack\infiniTrack\obj\Debug\infiniTrack.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.csprojAssemblyReference.cache
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmLogin.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.Properties.Resources.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmStart.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmUserwiseReport.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.csproj.GenerateResource.cache
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.exe
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.pdb
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\bin\Debug\infiniTrack.exe.config
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\bin\Debug\infiniTrack.exe
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\bin\Debug\infiniTrack.pdb
+D:\Development\C#\infiniTrackTeam\infiniTrack\bin\Debug\infiniTrack.exe.config
+D:\Development\C#\infiniTrackTeam\infiniTrack\bin\Debug\infiniTrack.exe
+D:\Development\C#\infiniTrackTeam\infiniTrack\bin\Debug\infiniTrack.pdb
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.csprojAssemblyReference.cache
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.frmProjectCreation.resources
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.frmProjectDashboard.resources
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.frmLogin.resources
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.Properties.Resources.resources
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.frmStart.resources
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.frmUserwiseReport.resources
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.csproj.GenerateResource.cache
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.csproj.CoreCompileInputs.cache
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.exe
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.pdb
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.frmProjectBulkCreation.resources
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.frmEmployeeClock.resources
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.frmProjectwiseReport.resources
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.frmUserDashboard.resources
+D:\Development\C#\infiniTrackTeam\infiniTrack\obj\Debug\infiniTrack.frmAccessDenied.resources
+C:\Users\luis_\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrack.mdf
+C:\Users\luis_\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrack_log.ldf
+C:\Users\luis_\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectCreation.resources
+C:\Users\luis_\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectBulkCreation.resources
+C:\Users\luis_\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectDashboard.resources
+C:\Users\luis_\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmEmployeeClock.resources
+C:\Users\luis_\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectwiseReport.resources
+C:\Users\luis_\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAccessDenied.resources
+C:\Users\luis_\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmUserDashboard.resources
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infiniTrack.exe.config
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infiniTrack.exe
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infiniTrack.pdb
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.csprojAssemblyReference.cache
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAddExpense.resources
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAddPhase.resources
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmLogin.resources
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.Properties.Resources.resources
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmStart.resources
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectCreation.resources
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectBulkCreation.resources
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectDashboard.resources
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmEmployeeClock.resources
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectwiseReport.resources
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAccessDenied.resources
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmUserDashboard.resources
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmUserwiseReport.resources
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.csproj.GenerateResource.cache
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.csproj.CoreCompileInputs.cache
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.exe
+C:\Users\oit\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.pdb
+C:\Users\luis_\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAddExpense.resources
+C:\Users\luis_\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAddPhase.resources
+D:\Development\C#\infinTrack_Team\infiniTrack\bin\Debug\infinitrack.mdf
+D:\Development\C#\infinTrack_Team\infiniTrack\bin\Debug\infinitrack_log.ldf
+D:\Development\C#\infinTrack_Team\infiniTrack\bin\Debug\infiniTrack.exe.config
+D:\Development\C#\infinTrack_Team\infiniTrack\bin\Debug\infiniTrack.exe
+D:\Development\C#\infinTrack_Team\infiniTrack\bin\Debug\infiniTrack.pdb
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.csprojAssemblyReference.cache
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmAddExpense.resources
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmAddPhase.resources
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmLogin.resources
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.Properties.Resources.resources
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmStart.resources
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmProjectCreation.resources
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmProjectBulkCreation.resources
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmProjectDashboard.resources
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmEmployeeClock.resources
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmProjectwiseReport.resources
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmAccessDenied.resources
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmUserDashboard.resources
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmUserwiseReport.resources
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.csproj.GenerateResource.cache
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.csproj.CoreCompileInputs.cache
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.exe
+D:\Development\C#\infinTrack_Team\infiniTrack\obj\Debug\infiniTrack.pdb
+D:\Development\C#\infinTrack_Team\infiniTrack\bin\Debug\infinitrackDataSet.Designer.cs
+D:\Development\C#\infinTrack_Team\infiniTrack\bin\Debug\infinitrackDataSet.xsc
+D:\Development\C#\infinTrack_Team\infiniTrack\bin\Debug\infinitrackDataSet.xsd
+D:\Development\C#\infinTrack_Team\infiniTrack\bin\Debug\infinitrackDataSet.xss
+C:\Users\luis_\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAddActivity.resources
+C:\Users\oit\source\repos\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrack.mdf
+C:\Users\oit\source\repos\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrack_log.ldf
+C:\Users\oit\source\repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAddActivity.resources
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrack.mdf
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrack_log.ldf
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrackDataSet.Designer.cs
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrackDataSet.xsc
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrackDataSet.xsd
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrackDataSet.xss
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infiniTrack.exe.config
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infiniTrack.exe
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infiniTrack.pdb
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.csprojAssemblyReference.cache
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAddActivity.resources
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAddExpense.resources
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAddPhase.resources
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmLogin.resources
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.Properties.Resources.resources
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmStart.resources
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectCreation.resources
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectBulkCreation.resources
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectDashboard.resources
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmEmployeeClock.resources
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectwiseReport.resources
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAccessDenied.resources
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmUserDashboard.resources
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmUserwiseReport.resources
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.csproj.GenerateResource.cache
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.csproj.CoreCompileInputs.cache
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.exe
+C:\Users\hayes\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.pdb
+D:\Development\C#\infiniTrack_Team\infiniTrack\bin\Debug\infiniTrack.exe.config
+D:\Development\C#\infiniTrack_Team\infiniTrack\bin\Debug\infiniTrack.exe
+D:\Development\C#\infiniTrack_Team\infiniTrack\bin\Debug\infiniTrack.pdb
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.csprojAssemblyReference.cache
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmAddActivity.resources
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmAddExpense.resources
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmAddPhase.resources
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmLogin.resources
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.Properties.Resources.resources
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmStart.resources
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmProjectCreation.resources
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmProjectBulkCreation.resources
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmProjectDashboard.resources
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmEmployeeClock.resources
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmProjectwiseReport.resources
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmAccessDenied.resources
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmUserDashboard.resources
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.frmUserwiseReport.resources
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.csproj.GenerateResource.cache
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.csproj.CoreCompileInputs.cache
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.exe
+D:\Development\C#\infiniTrack_Team\infiniTrack\obj\Debug\infiniTrack.pdb
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrack.mdf
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrack_log.ldf
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrackDataSet.Designer.cs
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrackDataSet.xsc
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrackDataSet.xsd
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrackDataSet.xss
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\bin\Debug\infiniTrack.exe.config
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\bin\Debug\infiniTrack.exe
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\bin\Debug\infiniTrack.pdb
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.csprojAssemblyReference.cache
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAddActivity.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAddExpense.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAddPhase.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmLogin.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.Properties.Resources.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmStart.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectCreation.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectBulkCreation.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectDashboard.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmEmployeeClock.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectwiseReport.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAccessDenied.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmUserDashboard.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmUserwiseReport.resources
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.csproj.GenerateResource.cache
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.exe
+C:\Users\luis_\source\repos\MIS740InfiTrack\infiniTrack\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.pdb
+D:\Development\C#\infi\infiniTrack\bin\Debug\infinitrack.mdf
+D:\Development\C#\infi\infiniTrack\bin\Debug\infinitrack_log.ldf
+D:\Development\C#\infi\infiniTrack\bin\Debug\infinitrackDataSet.Designer.cs
+D:\Development\C#\infi\infiniTrack\bin\Debug\infinitrackDataSet.xsc
+D:\Development\C#\infi\infiniTrack\bin\Debug\infinitrackDataSet.xsd
+D:\Development\C#\infi\infiniTrack\bin\Debug\infinitrackDataSet.xss
+D:\Development\C#\infi\infiniTrack\bin\Debug\infiniTrack.exe.config
+D:\Development\C#\infi\infiniTrack\bin\Debug\infiniTrack.exe
+D:\Development\C#\infi\infiniTrack\bin\Debug\infiniTrack.pdb
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.csprojAssemblyReference.cache
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.frmAddActivity.resources
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.frmAddExpense.resources
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.frmAddPhase.resources
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.frmLogin.resources
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.Properties.Resources.resources
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.frmStart.resources
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.frmProjectCreation.resources
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.frmProjectBulkCreation.resources
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.frmProjectDashboard.resources
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.frmEmployeeClock.resources
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.frmProjectwiseReport.resources
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.frmAccessDenied.resources
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.frmUserDashboard.resources
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.frmUserwiseReport.resources
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.csproj.GenerateResource.cache
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.csproj.CoreCompileInputs.cache
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.exe
+D:\Development\C#\infi\infiniTrack\obj\Debug\infiniTrack.pdb
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrack.mdf
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infinitrack_log.ldf
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infiniTrack.exe.config
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infiniTrack.exe
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\bin\Debug\infiniTrack.pdb
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.csprojAssemblyReference.cache
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAddActivity.resources
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAddExpense.resources
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAddPhase.resources
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmLogin.resources
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.Properties.Resources.resources
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmStart.resources
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectCreation.resources
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectBulkCreation.resources
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectDashboard.resources
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmEmployeeClock.resources
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmProjectwiseReport.resources
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmAccessDenied.resources
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmUserDashboard.resources
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.frmUserwiseReport.resources
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.csproj.GenerateResource.cache
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.csproj.CoreCompileInputs.cache
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.exe
+C:\Users\Seungtack Oh\Source\Repos\MIS740InfiTrack\infiniTrack\obj\Debug\infiniTrack.pdb
+D:\Development\C#\infiniTrack_Team\infiniTrack\bin\Debug\infinitrack.mdf
+D:\Development\C#\infiniTrack_Team\infiniTrack\bin\Debug\infinitrack_log.ldf
